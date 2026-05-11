@@ -16,14 +16,14 @@ Mini MUD textual em Python que demonstra o algoritmo 0/1 Knapsack aplicado a um 
 O algoritmo não é tratado como magia ou habilidade interna do jogo. Ele aparece como uma demonstração didática para analisar decisões de combate.
 
 ## Screenshots
-### Título 1
-![Exemplo 1](./img/)
+### Tela Inicial e Contexto
+![Exemplo 1](./img/exemplo1.png)
 
-### Título 2
-![Exemplo 2](./img/)
+### Menu do Turno
+![Exemplo 2](./img/exemplo2.png)
 
-### Título 3
-![Exemplo 3](./img/)
+### Resultados do Algoritmo
+![Exemplo 3](./img/exemplo3.png)
 
 ## Instalação
 ### Pre-requisitos
